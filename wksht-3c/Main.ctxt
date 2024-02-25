@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Main\ here.\r\n\r\n\ @author\ Ashwin\ Kalyan\r\n\ @version\ 1-21-24\r\n
+comment1.params=
+comment1.target=Main()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Main\r\n
+comment2.params=
+comment2.target=int\ randomInt()
+comment2.text=\r\n\ Creates\ a\ random\ number\ 0-99\ inclusive.\r\n\ @\ return\ A\ random\ integer\ between\ 0-99\ inclusive.\r\n
+comment3.params=
+comment3.target=double\ randomDouble()
+comment3.text=\r\n\ Creates\ a\ random\ double\ 0.0-999.9\ inclusive.\r\n\ @\ return\ A\ random\ double\ 0.0-999.9\ inclusive.\r\n
+comment4.params=
+comment4.target=void\ main()
+comment4.text=\r\n\ Solutions\ to\ 3.2c\r\n
+numComments=5
