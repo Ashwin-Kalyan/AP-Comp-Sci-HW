@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Declares\ the\ colors\ and\ triangles.\ Compares\ every\ triangle\ in\ the\ triangles\ array\ and\ prints\ a\ result\ when\ the\ triangles\ match\ when\ both\ are\ not\ rotated,\ when\ the\ second\ triangle\ is\ rotated\ to\ the\ left,\ or\ when\ the\ second\ triangle\ is\ rotated\ to\ the\ right.\r\n\r\n\ @author\ Ashwin\ Kalyan\r\n\ @version\ 2/1/24\r\n
+comment1.params=
+comment1.target=void\ main()
+numComments=2

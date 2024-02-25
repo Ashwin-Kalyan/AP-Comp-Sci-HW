@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Triangle
+comment0.text=\r\n\ Defines\ a\ triangle\ with\ the\ colors\ of\ its\ sides.\ \r\n\r\n\ @author\ Ashwin\ Kalyan\r\n\ @version\ 2/1/24\r\n
+comment1.params=colorLeftInput\ colorRightInput\ colorBottomInput
+comment1.target=Triangle(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Triangle\r\n\ \r\n\ @param\ colorLeftInput\ \ Represents\ the\ integer\ that\ corresponds\ to\ the\ color\ of\ the\ left\ side\ of\ the\ triangle.\r\n\ @param\ colorRightInput\ \ Represents\ the\ integer\ that\ corresponds\ the\ color\ of\ the\ right\ side\ of\ the\ triangle.\r\n\ @param\ colorBottomInput\ \ Represents\ the\ integer\ that\ corresponds\ the\ color\ of\ the\ bottom\ side\ of\ the\ triangle.\r\n
+comment2.params=
+comment2.target=int\ getLeftSide()
+comment2.text=\r\n\ Returns\ the\ color\ of\ the\ left\ side\ of\ the\ triangle.\r\n\r\n\ @return\ \ The\ integer\ corresponding\ to\ the\ color\ of\ the\ left\ side\ of\ the\ triangle.\r\n
+comment3.params=
+comment3.target=int\ getRightSide()
+comment3.text=\r\n\ Returns\ the\ color\ of\ the\ right\ side\ of\ the\ triangle.\r\n\r\n\ @return\ \ The\ integer\ corresponding\ to\ the\ color\ of\ the\ right\ side\ of\ the\ triangle.\r\n
+comment4.params=
+comment4.target=int\ getBottomSide()
+comment4.text=\r\n\ Returns\ the\ color\ of\ the\ bottom\ side\ of\ the\ triangle.\r\n\r\n\ @return\ \ The\ integer\ corresponding\ to\ the\ color\ of\ the\ bottom\ side\ of\ the\ triangle.\r\n
+comment5.params=compareTri
+comment5.target=boolean\ compareColors(Triangle)
+comment5.text=\r\n\ Compares\ the\ colors\ of\ the\ current\ Triangle\ object\ to\ a\ different\ Triangle\ that\ is\ in\ the\ same\ orientation.\r\n\ \r\n\ @param\ compareTri\ \ The\ triangle\ that\ is\ to\ be\ compared.\r\n\ @return\ \ True\ if\ all\ of\ the\ side\ colors\ match,\ or\ false\ if\ any\ do\ not\ match.\r\n
+comment6.params=compareTri
+comment6.target=boolean\ compareColorsLeft(Triangle)
+comment6.text=\r\n\ Compares\ the\ colors\ of\ the\ current\ Triangle\ object\ to\ a\ different\ Triangle\ that\ is\ rotated\ left.\r\n\ \r\n\ @param\ compareTri\ \ The\ triangle\ that\ is\ to\ be\ rotated\ left\ and\ compared\ to.\r\n\ @return\ \ True\ if\ all\ of\ the\ side\ colors\ match,\ or\ false\ if\ any\ do\ not\ match.\r\n
+comment7.params=compareTri
+comment7.target=boolean\ compareColorsRight(Triangle)
+comment7.text=\r\n\ Compares\ the\ colors\ of\ the\ current\ Triangle\ object\ to\ a\ different\ Triangle\ that\ is\ rotated\ right.\r\n\ \r\n\ @param\ compareTri\ \ The\ triangle\ that\ is\ to\ be\ rotated\ right\ and\ compared\ to.\r\n\ @return\ \ True\ if\ all\ of\ the\ side\ colors\ match,\ or\ false\ if\ any\ do\ not\ match.\r\n
+numComments=8
