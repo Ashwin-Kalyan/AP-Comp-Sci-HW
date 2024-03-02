@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Wksht42
+comment0.text=\r\n\ Solutions\ to\ AP\ Computer\ Science\ Wksht\ 4.2\r\n\r\n\ @author\ Ashwin\ Kalyan\r\n\ @version\ 2-29-24\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=int\ randomInt()
+numComments=3
